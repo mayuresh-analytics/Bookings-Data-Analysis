@@ -57,6 +57,7 @@ The project uses Microsoft Excel, MySQL, and Power BI to clean data, perform SQL
 
 ## Dashboard Preview
 
+![Bookings Power BI Dashboard](bookings-dashboard-png.png)
 ![Bookings Power BI Dashboard](Bookings_Dashboard.png)
 
 ## Conclusion
